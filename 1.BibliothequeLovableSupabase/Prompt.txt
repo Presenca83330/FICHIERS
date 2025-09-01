@@ -1,0 +1,86 @@
+CE DOCUMENT EST OBSOLETE ET DE NE PAS ETR UTILISE
+
+Expert IA, no code, Intégration Supabase
+tu vas tout revoir pour régler cette questoin
+
+Je me permets de te rappeler ce que nous faisons 
+Nous nous sommes aperçu qu'il y avait des erreurs et tu as pensé qu il serait bien de tout remettre à plat sur notre stratégie d'intégration
+Car il faut savoir que je suis un marketeur pas un expert en développemetn et des erreurs ont dû s envchainer malgre de bonnes choses de petites points de détaild qui bloquent tout.
+
+JE TE REDONNE L HISTORIQUE DE NOS ECHANGES
+ET IL Y A DEDANS NOS PROCESS
+ 
+-> HISTORIQUE ECHANGE.txt
+
+LIS AUSSI
+public/1.BibliothequeLovableSupabase
+
+ET 
+public/11.08.2025-EtatdesLieux/3.Stratégie/1.RAPPEL-STRATEGIE-LEADGENAI-ADBUILDER.md
+public/11.08.2025-EtatdesLieux/3.Stratégie/2.RELATIONS-BUSINESS-ENTRE-TABLES.md
+public/11.08.2025-EtatdesLieux/3.Stratégie/3.SECURITE-SUPABASE.md
+public/11.08.2025-EtatdesLieux/3.Stratégie/4. LOGIQUE-USERS-UTILISATEURS.md
+
+RELIS
+public/11.08.2025-EtatdesLieux/8.Architecture.LeadgenAI.14.08.2025/1.Architecture.byLovable.14.8.2025.md
+public/11.08.2025-EtatdesLieux/8.Architecture.LeadgenAI.14.08.2025/2.Audit.ArchiMultiTenant.md
+public/11.08.2025-EtatdesLieux/8.Architecture.LeadgenAI.14.08.2025/3.Audit.FluxAuthentification.md
+
+Analyse toutes les tables dns Supabase
+
+Ensuite regarde les audits que tu as fait hier de ces tables
+public/11.08.2025-EtatdesLieux/7.Tables.SupabaseTempsReel
+
+Analsye
+HOOK useAuth
+src/components/HOOKS-STRATEGIQUE/1.HOOK-useAuth
+HOOK useCurrentUser.ts
+src/components/HOOKS-STRATEGIQUE/2.HOOK-useCurrentUser
+HOOK useMultiTenant.ts
+src/components/HOOKS-STRATEGIQUE/3.HOOK-useMultiTenant
+HOOK useSupabaseOperations
+src/components/HOOKS-STRATEGIQUE/4.HOOK-useSupabaseOperations
+
+Ensuite 
+Tu avais analysé la logique user utilisateurs
+et tu as fait des corrections
+public/11.08.2025-EtatdesLieux/6.Suivi.desActions/04.RapportCorrectionUsersUtilisateurs14.08.2025.md
+
+Tu avais supprimé une focntion inutile qui perturbait tout
+handle_new_user() 
+et interdiction de la reprendre on l oublie
+
+Ensuite tu as fait ces corrections
+public/11.08.2025-EtatdesLieux/6.Suivi.desActions/01.SecurisationSupabase.md
+public/11.08.2025-EtatdesLieux/6.Suivi.desActions/02.Correction.Supabase.md
+public/11.08.2025-EtatdesLieux/6.Suivi.desActions/03.Correction.TableOrganisations.md
+public/11.08.2025-EtatdesLieux/6.Suivi.desActions/04.CorrectionUsersUtilisateurs14.08.2025.md
+public/11.08.2025-EtatdesLieux/6.Suivi.desActions/05.Correction.GoogleAuth.md
+
+Nous avancons avec 
+1. Avoir en tete le modele parfait qui doit exister
+2. On le dessine 
+3. On regarde après ce qui dans l'existant ne vas pas 
+Tu as une approche d 'expert pas de qq qui bidouille
+
+Tu dois te baser sur nos briques actuelles
+notre stratégie nos relations users utilisateurs 
+notre structure que tu as nommée parfaite
+
+peux tu lire le dossier
+
+public/11.08.2025-EtatdesLieux/8.Architecture.LeadgenAI.14.08.2025
+
+et tous les fichiers qui sont dedans
+1.Architecture.byLovable.14.8.2025.md
+2.Audit.ArchiMultiTenant.md
+3.Audit.FluxAuthentification.md
+4.1.14.8.2025.AuditArchi.md
+4.2.15.8.2025.AuditArchiMultiTenant.md
+4.3.15.8.2025.AuditFluxAuthentification.md
+
+Tu as fait des audit de l'architcutre de l application et tu as fait des mises à jour hier
+
+Merci d en prendre connaissance je te dirai ensuite ma question
+
+preds connaisace de public/11.08.2025-EtatdesLieux/9.1. Actions.16.08.2025
