@@ -10,3 +10,6 @@ public/11.08.2025-EtatdesLieux/7.Tables.SupabaseTempsReel/1.Tables.Stratégiques
 public/11.08.2025-EtatdesLieux/7.Tables.SupabaseTempsReel/2.Tables.Clients
 public/11.08.2025-EtatdesLieux/7.Tables.SupabaseTempsReel/3.Tables.Connexion
 public/11.08.2025-public/11.08.2025-EtatdesLieux/7.Tables.SupabaseTempsReel/4.Tables.Historique
+Les fichiers sont vides tu devras les renseigner en appliquant les directives
+Je te montre un exemple de fichier rempli : 
+public/11.08.2025-EtatdesLieux/7.Tables.SupabaseTempsReel/exemple.md
